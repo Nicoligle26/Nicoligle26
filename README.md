@@ -12,7 +12,7 @@
 <a href="https://instagram.com/nicoliglesias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nicoliglesias" height="30" width="40" /></a>
 </p>
 
-<img style ="rounded" align="right" height=300px width=200px alt="jake gif" 
+<img style ="rounded" align="right" height=300px width=400px alt="jake gif" 
 src="https://c.tenor.com/SP9NsyJZqwYAAAAC/pensando-burbuja.gif"/>
 
 <h3 align="left">Languages and Tools:</h3>
